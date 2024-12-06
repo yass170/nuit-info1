@@ -2,6 +2,9 @@
     "name": "ocean-human-app",
     "version": "1",
     "private": true,
+    "author": "Yasser",
+    "license": "ISC"
+  }
     "scripts": {
       "start": "react-scripts start",
       "build": "react-scripts build",
