@@ -7,8 +7,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  }
-  ,"author": "Julie",
+  },
+  "author": "Yasser",
   "license": "ISC",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -17,9 +17,8 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.1",
-    "react-scripts": "5.0.1",
-    "sass": "^1.66.1",
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "react-scripts": "^3.0.1",
+    "sass": "^1.66.1"
   },
   "browserslist": {
     "production": [
@@ -32,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
 }
