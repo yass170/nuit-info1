@@ -1,0 +1,55 @@
+.organ-section {
+    display:flex;
+    align-items:center;
+    margin:50px 0;
+    .bulle-texte {
+      background: #9fd8c8; 
+      color:#fff;
+      padding:20px;
+      border-radius:10px;
+      max-width:300px;
+      margin-right:20px;
+      h2 {margin:0 0 10px;}
+      p {margin:5px 0;}
+      .en-savoir-plus {
+        display:inline-block;
+        margin-top:10px;
+        color:#fff;
+        text-decoration:underline;
+        &:hover {text-decoration:none;}
+      }
+    }
+    .organ-image {
+      max-width:100px;
+      height:auto;
+    }
+  }
+  
+  .ocean-section {
+    display:flex;
+    align-items:center;
+    margin:50px 0;
+    .bulle-ocean-texte {
+      background: #fff;
+      color:#000;
+      padding:20px;
+      border-radius:10px;
+      max-width:300px;
+      margin-right:20px;
+      h2 {margin:0 0 10px;}
+      p {margin:5px 0;}
+      .en-savoir-plus {
+        display:inline-block;
+        margin-top:10px;
+        color:#000;
+        font-weight:bold;
+        text-decoration:underline;
+        &:hover {text-decoration:none;}
+      }
+    }
+    .ocean-image {
+      max-width:100px;
+      height:auto;
+    }
+  }
+  

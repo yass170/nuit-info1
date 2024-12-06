@@ -1,0 +1,20 @@
+@import 'base/reset';
+@import 'base/typography';
+@import 'base/variables';
+
+@import 'layout/layout';
+@import 'layout/header';
+@import 'layout/footer';
+
+@import 'components/bubble';
+@import 'components/filrouge';
+@import 'components/navbar';
+@import 'components/enSavoirPlus';
+@import 'components/home';
+@import 'components/loading';
+@import 'components/quiz';
+
+@import 'pages/homePage';
+@import 'pages/enSavoirPlusPage';
+@import 'pages/quizPage';
+@import 'pages/resultPage';

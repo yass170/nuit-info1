@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "Quel est le rôle principal des poumons dans le corps humain ?",
+      "answers": ["Filtrer le sang", "Échanger l'oxygène et le CO2", "Pomper le sang"],
+      "correct": [1]
+    },
+    {
+      "id": 2,
+      "question": "Le plancton dans l'océan est l'équivalent de quel organe humain ?",
+      "answers": ["Le cœur", "Les poumons", "Les os"],
+      "correct": [1]
+    },
+    {
+      "id": 3,
+      "question": "Les courants marins sont l'équivalent de quel élément du corps humain ?",
+      "answers": ["Le système circulatoire (cœur)", "Le système digestif", "Le système nerveux"],
+      "correct": [0]
+    },
+    {
+      "id": 4,
+      "question": "La barrière de corail est assimilable à quel élément du corps humain ?",
+      "answers": ["Le foie", "Les poumons", "Les os (structure)"],
+      "correct": [2]
+    },
+    {
+      "id": 5,
+      "question": "Les océans régulent le climat, comme le corps humain régule...",
+      "answers": ["La température interne", "La croissance des cheveux", "Le rythme du sommeil"],
+      "correct": [0]
+    },
+    {
+      "id": 6,
+      "question": "Les poumons permettent d'apporter de l'oxygène dans le sang. L'océan, via le plancton, apporte...",
+      "answers": ["du CO2", "de l'oxygène pour la planète", "du méthane"],
+      "correct": [1]
+    },
+    {
+      "id": 7,
+      "question": "Le cœur humain pompe le sang. Les courants marins pompent...",
+      "answers": ["l'eau, distribuant nutriments et chaleur", "l'air", "rien du tout"],
+      "correct": [0]
+    },
+    {
+      "id": 8,
+      "question": "La barrière de corail soutient la vie marine, comme les os soutiennent...",
+      "answers": ["le système nerveux", "la structure du corps humain", "les cheveux"],
+      "correct": [1]
+    },
+    {
+      "id": 9,
+      "question": "Si les poumons sont endommagés, le corps manque d'oxygène. Si le plancton disparaît, l'océan manque...",
+      "answers": ["de sel", "d'oxygène", "de mouvement"],
+      "correct": [1]
+    },
+    {
+      "id": 10,
+      "question": "Les os protègent les organes internes. La barrière de corail protège...",
+      "answers": ["les plages de l'érosion", "les poissons des courants", "les bateaux des vagues"],
+      "correct": [0]
+    },
+    {
+      "id": 11,
+      "question": "Le cœur joue un rôle dans le transport des nutriments. Les courants marins transportent...",
+      "answers": ["le plastique", "les nutriments et la chaleur", "les continents"],
+      "correct": [1]
+    },
+    {
+      "id": 12,
+      "question": "Le corps humain maintient sa température à environ 37°C. L'océan aide à maintenir...",
+      "answers": ["la température stable du climat terrestre", "la température du soleil", "la température de la Lune"],
+      "correct": [0]
+    },
+    {
+      "id": 13,
+      "question": "Les poumons filtrent et échangent des gaz. Le plancton filtre...",
+      "answers": ["les rayons UV", "le CO2, produisant de l’oxygène", "le sel"],
+      "correct": [1]
+    },
+    {
+      "id": 14,
+      "question": "La barrière de corail est sensible au réchauffement. Les os sont sensibles...",
+      "answers": ["au changement de gravité", "aux carences en calcium et vitamine D", "à la pression sonore"],
+      "correct": [1]
+    },
+    {
+      "id": 15,
+      "question": "Les courants marins influencent les migrations de poissons. Le cœur influence...",
+      "answers": ["le langage", "la circulation du sang vers tous les organes", "la pensée"],
+      "correct": [1]
+    },
+    {
+      "id": 16,
+      "question": "Le plancton est à la base de la chaîne alimentaire marine. Les poumons sont à la base...",
+      "answers": ["de la digestion", "de l'aération du sang", "de la régénération osseuse"],
+      "correct": [1]
+    },
+    {
+      "id": 17,
+      "question": "Sans barrière de corail, certaines espèces marines perdent leur habitat. Sans os...",
+      "answers": ["le corps humain ne tient plus debout", "le sang disparaît", "les cheveux ne poussent plus"],
+      "correct": [0]
+    },
+    {
+      "id": 18,
+      "question": "Les courants marins répartissent la chaleur. Le cœur répartit...",
+      "answers": ["la nourriture", "l'oxygène et les nutriments", "les hormones uniquement"],
+      "correct": [1]
+    },
+    {
+      "id": 19,
+      "question": "Le plancton subit les effets du réchauffement climatique. Les poumons subissent...",
+      "answers": ["rien du tout", "la pollution de l'air", "le manque de sommeil"],
+      "correct": [1]
+    },
+    {
+      "id": 20,
+      "question": "La barrière de corail peut blanchir sous stress. Les os peuvent...",
+      "answers": ["se briser en cas de choc", "changer de couleur naturellement", "devenir de l'eau"],
+      "correct": [0]
+    }
+  ]
+  

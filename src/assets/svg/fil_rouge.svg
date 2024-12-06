@@ -1,0 +1,11 @@
+<svg width="20" height="500" viewBox="0 0 20 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <!-- Fond noir clair (gris très foncé) pour le tube -->
+  <rect x="0" y="0" width="20" height="500" fill="#333" />
+
+  <!-- Deux traits rouges parallèles, séparés d’environ 8px -->
+  <!-- Premier trait rouge -->
+  <line x1="4" y1="0" x2="4" y2="500" stroke="red" stroke-width="4"/>
+  
+  <!-- Deuxième trait rouge (8px à droite du premier) -->
+  <line x1="12" y1="0" x2="12" y2="500" stroke="red" stroke-width="4"/>
+</svg>

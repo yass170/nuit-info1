@@ -1,0 +1,8 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cercle de fond -->
+  <circle cx="12" cy="12" r="10" stroke="#000000" stroke-width="2" fill="#FFFFFF"/>
+  
+  <!-- Lettre i -->
+  <line x1="12" y1="8" x2="12" y2="11" stroke="#000000" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="12" cy="15.5" r="1" fill="#000000"/>
+</svg>

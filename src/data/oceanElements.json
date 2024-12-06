@@ -1,0 +1,27 @@
+[
+    {
+      "id": "plancton",
+      "name": "Plancton",
+      "description": "Le plancton produit une grande partie de l'oxygène dans l'océan.",
+      "humanEquivalent": "Poumons",
+      "detailedInfo": "Le plancton joue un rôle crucial dans la chaîne alimentaire marine et contribue au cycle de l'oxygène.",
+      "image": "ocean_plancton.png"
+    },
+    {
+      "id": "corail",
+      "name": "Barrière de Corail",
+      "description": "La barrière de corail structure les écosystèmes marins.",
+      "humanEquivalent": "Os",
+      "detailedInfo": "Les coraux fournissent un habitat pour de nombreuses espèces, soutenant la biodiversité.",
+      "image": "ocean_corail.png"
+    },
+    {
+      "id": "courants",
+      "name": "Courants Marins",
+      "description": "Les courants transportent nutriments et régulent la température de l'océan.",
+      "humanEquivalent": "Cœur",
+      "detailedInfo": "Les courants océaniques influencent le climat, la migration des espèces marines et la répartition des nutriments.",
+      "image": "ocean_courants.png"
+    }
+  ]
+  

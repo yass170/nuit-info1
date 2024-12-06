@@ -1,0 +1,18 @@
+.animated-separator {
+    position:absolute;
+    top:0; bottom:0;
+    left:50%;
+    transform:translateX(-50%);
+    width:2px; // width minimal mais l’image wave remplit
+    display:flex; align-items:center;
+    .wave-separator {
+      height:100%;
+      animation:waveMove 4s ease-in-out infinite alternate;
+    }
+  
+    @keyframes waveMove {
+      from {transform:translateY(-10px);}
+      to {transform:translateY(10px);}
+    }
+  }
+  

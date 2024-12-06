@@ -1,0 +1,27 @@
+[
+    {
+      "id": "heart",
+      "name": "Cœur",
+      "description": "Le cœur pompe le sang et le fait circuler dans tout le corps.",
+      "oceanEquivalent": "Courants marins",
+      "detailedInfo": "Le cœur est un organe vital qui assure la circulation sanguine, distribuant l'oxygène et les nutriments. Sans lui, pas de vie.",
+      "image": "organe_heart.png"
+    },
+    {
+      "id": "lungs",
+      "name": "Poumons",
+      "description": "Les poumons permettent l'échange gazeux O2 / CO2 dans le sang.",
+      "oceanEquivalent": "Plancton",
+      "detailedInfo": "Les poumons sont responsables de la respiration, apportant l’oxygène dont les cellules ont besoin et éliminant le CO2.",
+      "image": "organe_lungs.png"
+    },
+    {
+      "id": "bone",
+      "name": "Os (structure du corps)",
+      "description": "Les os forment la charpente du corps humain.",
+      "oceanEquivalent": "Barrière de corail",
+      "detailedInfo": "Le squelette humain soutient le corps, protège les organes et permet le mouvement.",
+      "image": "organe_bone.png"
+    }
+  ]
+  
